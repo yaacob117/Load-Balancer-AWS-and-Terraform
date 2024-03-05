@@ -1,0 +1,6 @@
+#ignore ssh pem file
+*.pem
+
+#ignore directory
+backend/.terraform/
+.terraform/
